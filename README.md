@@ -1,29 +1,40 @@
-# 📚 Elastic Certified Engineer Exam Preparation
+# 🎓 Elastic Certified Engineer Exam Study Guide
 
-This repository is dedicated to providing resources and practical exercises for the preparation of the Elastic Certified Engineer Exam.
+This repository is an extensive guide for preparing for the Elastic Certified Engineer Exam. It includes a collection of resources and practice exercises for each exam topic.
 
-The repository is structured in a way that each markdown file corresponds to a specific topic from the exam and contains learning materials and practical exercises.
+## 🚀 How to use
 
-## How to Use this Repository with Obsidian
+The guide is organized into different sections, each covering a specific topic in the exam. Each topic includes learning materials and practice exercises.
 
-Obsidian is a powerful knowledge base that works on top of a local folder of plain text markdown files. To view this repository in Obsidian, follow these steps:
-1. Clone the repository to your local machine using git: 
-```bash
-git clone https://github.com/53jk1/Elastic_Certified_Engineer_Exam.git
-```
-2. Open Obsidian and click on "Open folder as Vault".
-3. Navigate to the location of the cloned repository and select the folder.
-Once the Vault is opened, you will see all the markdown files in the folder. Clicking on a file will open it in the editor.
+## 💎 Obsidian Vault
 
-For a playground with an ELK (Elasticsearch, Logstash, Kibana) stack, refer to [this repository](https://github.com/53jk1/elasticsearch-playground).
+You can navigate and study this guide more effectively by viewing it as an Obsidian vault.
 
-## 📝 Contents
-1. [[Data_Management/README|Data Management]]
-2. [[Searching_Data/README|Searching Data]]
-3. [[Developing_Search_Applications/README|Developing Search Applications]]
-4. [[Data_Processing/README|Data Processing]]
-5. [[Cluster_Management/README|Cluster Management]]
+Here's how to open this guide as an Obsidian vault:
 
-## ⚠️ Note
+1. Download and install [Obsidian](https://obsidian.md/download).
+2. Clone this GitHub repository to your local machine.
+3. Open Obsidian, click on "Open folder as vault", and select the cloned repository.
 
-Please remember that the Elastic Certified Engineer exam is a hands-on, performance-based exam. We highly recommend working directly with Elasticsearch to fully understand and perform the tasks outlined in this repository.
+You should now see the guide in a nicely organized, interconnected format!
+
+## 🎯 Elasticsearch Playground
+
+You can use the [Elasticsearch Playground](https://github.com/53jk1/elasticsearch-playground) to practice the exercises in this guide. The playground provides a simple, easy-to-use environment to learn Elasticsearch.
+
+## 📚 Topics
+
+- [Data Management](Data_Management/README.md)
+- [Searching Data](Searching_Data/README.md)
+- [Developing Search Applications](Developing_Search_Applications/README.md)
+- [Data Processing](Data_Processing/README.md)
+- [Cluster Management](Cluster_Management/README.md)
+
+## 🙌 Contributing
+
+Contributions are welcome! If you have any resources or practice exercises to add, please feel free to open a pull request.
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
